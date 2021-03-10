@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "Drivers/STM32F4xx_StdPeriph_Driver/inc",
+                "Inc",
+                "Src",
+                "uCOSII/Include",
+                "uCOSII/Ports/ARM-Cortex-M4/Generic/GNU"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F405xx",
+                "STM32F40X_HD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "intelliSenseMode": "gcc-arm",
+            "cStandard": "c11",
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}

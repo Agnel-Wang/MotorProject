@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "led.h": "c",
+        "main.h": "c",
+        "common.h": "c",
+        "stm32f4xx.h": "c",
+        "delay.h": "c",
+        "beep.h": "c",
+        "sys.h": "c"
+    }
+}

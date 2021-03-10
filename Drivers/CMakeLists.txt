@@ -1,0 +1,2 @@
+aux_source_directory(STM32F4xx_StdPeriph_Driver/src STM32F4xx_StdPeriph_Driver)
+add_library(drivers ${STM32F4xx_StdPeriph_Driver})
